@@ -1,0 +1,352 @@
+img{
+    width:
+    height: 0px;
+}
+body{
+    height: 1550px;;
+    background-color: black;
+}
+
+.login{
+    width:%;
+    display: block;
+    text-align: center;
+    
+}
+.login li{
+    display: block;
+    list-style: none;
+    display: inline-block;
+    width: 90px;
+    position: relative;
+}
+.login h4{
+    font-size: 60px;
+    color: rgb(0, 242, 255);
+    font-weight: 900;
+    line-height: 1px;
+}
+.login li a .fa-facebook{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #316ff6;
+    border-radius: 100px;
+    color: white;
+}
+.login li a .fa-linkedin{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #0077b5;
+    border-radius: 100px;
+    color: white;
+}.login li a .fa-twitter{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: white;
+    border-radius: 100px;
+    color: #1da1f2;
+}.login li a .fa-youtube-play{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #f7f7f7;
+    border-radius: 100px;
+    color: #ff0033;
+}.login li a .fa-snapchat-ghost{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #f7f300;
+    border-radius: 100px;
+    color: #f7f7f7f7;
+}.login li a .fa-telegram{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #33ace0;
+    border-radius: 100px;
+    color: #fffbfc;
+}.login li a .fa-whatsapp{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #30d14e;
+    border-radius: 100px;
+    color: #f5f5f5;
+}.login li a .fa-apple{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #838288;
+    border-radius: 100px;
+    color: #f7f7f7;
+}.login li a .fa-usb{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #f7f7f7;
+    border-radius: 100px;
+    color: #2b2b2b;
+}
+.login li a .fa-diamond{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #59a8e5;
+    border-radius: 100px;
+    color: #f7f7f7;
+}
+.login li a .fa-heart{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #f7f7f7f7;
+    border-radius: 100px;
+    color: #d50000;
+}
+.login li a .fa-opera{
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #f7f7f7;
+    border-radius: 100px;
+    color: #eb162a;
+}
+.login li a .fa{
+    width: 90px;
+    height: 90px;
+    border: 1.9px dotted rgb(247, 39, 2);
+}
+.login li a .fa:hover{
+    cursor: pointer;
+    background-color: #207401;
+    border: 2px solid red;
+    transition: 1s;
+}
+.login li a .fa:focus{
+    background-color: red;
+    border: 3px solid green;
+    color: white;
+}
+
+.loginform{
+    width: 650px;
+    height: 570px;
+    background-color:rgb(176, 168, 168);
+    margin: 40px auto 0;
+    border-radius: 50px;
+    border: 2px dotted rgb(255, 251, 0);
+}
+.loginbox{
+    width: 4000px;
+}
+.avater{
+    width: 650px;
+    text-align: center;
+}
+.avater img{
+    width: 100px;
+    height: 100px;
+  border-radius: 100px;
+  margin-top: 10px;
+  border: 2px dotted red;
+}
+.avater h1{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 550;
+    color: #44ff00;
+}
+.formbox{
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.form-control{
+    width: 643px;
+    height: 25px;
+    line-height: 40px;
+    border-radius: 50px;
+    border: 1.9px dotted red;
+    font-size: 15px;
+    font-weight: 900px;
+}
+.btn-primary{
+    width: 70px;
+    height: 28px;
+    margin-top: 15px;
+    border-radius: 100px;
+    border: 1.9px solid rgba(0, 0, 0, 0.921);
+    background-color: rgb(255, 0, 247);
+    color: rgb(255, 255, 255);
+    
+}
+.btn-primary:hover{
+    cursor: pointer;
+    background-color: black;
+}
+.signform h2{
+    font-size: 30px;
+    margin-left: 220px;
+    color: rgb(255, 255, 0);
+    margin-top: 50px;
+}
+.signform h3{
+    font-size: 50px;
+    margin-left: 130px;
+    color: rgb(18, 0, 134);
+}
+.blue{
+    width: 700px;
+    height: 60px;
+    background-color: rgb(174, 172, 180);
+    border-radius: 100px;
+    top: -200px;
+}
+.green{
+    width: 400px;
+    height: 200px;
+    background-color: rgb(23, 128, 0);
+    margin-left: 135px;
+    position: relative;
+}
+.red{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    background-color: rgb(255, 0, 0);
+    border-radius: 100px;
+    margin-left: 140px;
+    top: 40px;
+
+}
+.signupbox{
+    text-align: center;
+    background-color: rgba(26, 0, 132, 0.505);
+    border-radius: 100px;
+    margin-top: 300px;
+}
+.signupbox h4{
+    font-size: 50px;
+    color: #ffd900;
+}
+.yelo{
+    width: 400px;
+    height: 210px;
+    background-color: #1c0058ef;
+    margin-left: 135px;
+    position: relative;
+    overflow: hidden;
+}
+.line1{
+    position: absolute;
+    width: 500px;
+    height: 33px;
+    background-color: rgb(255, 255, 255);
+    top: 80px;
+    transform: rotate(26deg);
+    left: -60px;
+    bottom: 110px;
+}
+.line2{
+    position: absolute;
+    width: 500px;
+    height: 33px;
+    background-color: rgb(255, 255, 255);
+    top: 80px;
+    transform: rotate(-27deg);
+    left: -35px;
+    bottom: 110px;
+}
+.line3{
+    position: relative;
+    width: 250px;
+    height: 15px;
+    background-color: red;
+    top: 51px;
+    transform: rotate(26deg);
+    left: -20px;
+}
+.line4{
+    position: relative;
+    width: 250px;
+    height: 15px;
+    background-color: red;
+    top: 30px;
+    transform: rotate(-27deg);
+    left: 170px;
+
+}
+.line5{
+    position: relative;
+    width: 250px;
+    height: 15px;
+    background-color: red;
+    top: 112px;
+    transform: rotate(26deg);
+    left: 180px;
+}
+.line6{
+    position: relative;
+    width: 250px;
+    height: 15px;
+    background-color: red;
+    top: 118px;
+    transform: rotate(-27deg);
+    left: -50px;
+
+}
+.line7{
+    position: relative;
+    width: 500px;
+    height: 48px;
+    background-color: white;
+    top: 20px;
+}
+.line8{
+    position: relative;
+    width: 500px;
+    height: 48px;
+    background-color: white;
+    top: 20px;
+    transform: rotate(90deg); 
+    left: -50px;
+}
+.line9{
+    position: relative;
+    width: 500px;
+    height: 28px;
+    background-color: rgb(255, 0, 0);
+    top: -65px;
+}
+.line10{
+    position: absolute;
+    width: 500px;
+    height: 28px;
+    background-color: rgb(255, 0, 0);
+    bottom: 80px;
+    transform: rotate(90deg); 
+    left: -50px;
+}
+.formlogbox{
+    width: 100px;
+    height: 50px;
+}
+.formlogbox img{
+
+    width: 250px;
+    height: 80px;
+    right: -170px;
+    bottom: 200px;
+    position: fixed;
+    
+}
+.formlogbox :hover{
+    cursor: pointer;
+    margin-right: 155px;
+    transition: 1s;
+}
